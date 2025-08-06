@@ -4,13 +4,13 @@ A project that uses machine learning to predict house prices.
 
 ---
 
-## ## What This Project Does
+## What This Project Does
 
 This project analyzes real estate data to figure out what makes a property expensive or cheap. It then uses this knowledge to build a model that can predict the price of a house based on its features.
 
 ---
 
-## ## Key Features
+## Key Features
 
 * **Smart Features:** Instead of just using the raw data, we created new, more helpful features:
     * **Neighborhoods:** Grouped properties into different zones based on their location.
@@ -21,7 +21,7 @@ This project analyzes real estate data to figure out what makes a property expen
 
 ---
 
-## ## How to Run It
+## How to Run It
 
 1.  **Get the Code:**
     * Download or clone this project to your computer.
@@ -42,22 +42,18 @@ This project analyzes real estate data to figure out what makes a property expen
 
 ---
 
-## ## Project Results
+## Project Results
 
 The final model using **XGBoost** was very successful at predicting house prices.
 
-### ### What Matters Most for the Price?
+### What Matters Most for the Price?
 
 This chart shows the most important factors for determining a house's price. The distance to the nearest MRT (metro) station is clearly the biggest factor.
 
 
-### ### How Accurate Are the Predictions?
+### How Accurate Are the Predictions?
 
 This plot compares the model's predicted prices to the actual prices. Since most dots are close to the red line, it shows our model is quite accurate.
 
 
 ---
-
-## ## License
-
-This project is shared under the MIT License.
